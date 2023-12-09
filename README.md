@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/azzizulhakim810/azzizulhakim810/main/assets/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Azzizul Hakim</h1>
 <h3 align="center">A Diligent Web Developer & Designer</h3>
 
