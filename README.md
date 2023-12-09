@@ -14,7 +14,6 @@
 ### 👯 I’m looking to collaborate on **- To Other's projects**
 
 ### 👨‍💻 [Fiverr portfolio](https://www.fiverr.com/users/azzizul_hakim/portfolio)
-### 👨‍💻 All of my projects are available at [ https://www.fiverr.com/users/azzizul_hakim/portfolio]( Fiverr portfolio)
 
 ### 💬 Ask me about **- Wordpress & Javascript**
 
