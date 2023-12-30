@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me **- azzizul.hakim202@gmail.com**
 
-### 📄 Know about my experiences [Resume]( https://resumeofmyself.tiiny.site)
+### 📄 Know about my experiences [Resume](https://resumeofazzizul.tiiny.site/)
 
 ### ⚡ Fun fact **- I can sing & dance**
 
