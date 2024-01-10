@@ -33,7 +33,7 @@
 
 ## 📊 Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=azzizulhakim810&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=azzizulhakim810&theme=github-dark)](https://git.io/streak-stats)
 
 &nbsp;
 
